@@ -39,7 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MHU29](https://www.frontendmentor.io/profile/MHU29)
 
 ## Acknowledgments
 CSS resets from josh comeau: https://www.joshwcomeau.com/css/custom-css-reset/
